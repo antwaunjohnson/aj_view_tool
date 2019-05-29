@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-AjViewTool::Render.copyright 'Antwaun Johnson', 'All rights reserved'
+AjViewTool::Render.copyright 'Your Name', 'All rights reserved'
 ```
 ## Development
 
